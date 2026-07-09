@@ -1,0 +1,1 @@
+{\n  \"extends\": \"next/core-web-vitals\",\n  \"rules\": {\n    \"react-hooks/rules-of-hooks\": \"error\",\n    \"react-hooks/exhaustive-deps\": \"warn\",\n    \"no-console\": [\"warn\", { \"allow\": [\"warn\", \"error\"] }]\n  }\n}\n"
